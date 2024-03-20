@@ -1,0 +1,11 @@
+.elastic li.hide {
+    display: none;
+}
+
+.text {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
